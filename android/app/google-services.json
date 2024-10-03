@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "264926805688",
+    "project_id": "background-location-11bdf",
+    "storage_bucket": "background-location-11bdf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:264926805688:android:0c386dcdc4adbb669dfe4d",
+        "android_client_info": {
+          "package_name": "com.background.location"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChRryO6q4pGPse52ah6ClF5z7V8zpjFuw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
